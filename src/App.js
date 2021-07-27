@@ -6,6 +6,7 @@ function App() {
     <div className="bg-red-500">
       <div className="App">
       <h1>Hello World</h1>
+      <h3>Belajar Git</h3>
       </div>
     </div>
   );
